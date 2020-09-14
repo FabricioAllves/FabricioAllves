@@ -2,6 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:fabricioohh@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/henrique_allves26/)](https://www.instagram.com/henrique_allves26/)
 
+
+
+### Hello, my name is Fabricio henrique 
+and I'm FrontEnd Developer studying Systems Analysis and Development
+Enthusiastic and currently focused on Web Development and application creation
 <!--
 **fabricio-26/fabricio-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
