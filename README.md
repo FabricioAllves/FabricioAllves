@@ -5,7 +5,7 @@
 
 
 ## :smile: About me😄
-My name is Fabricio Henrique Alves da Silva, I'm 19 years old, I'm
+My name is Fabricio Henrique Alves da Silva, I'm 19 years old, I'm from
 Goiânia (GO). I currently live in my hometown, studying the second period of Analysis and Systems Development. I am currently taking a FULLSTACK course at Danki Code in which I am expanding my knowledge in FrontEnd and looking for new challenges in order to seek new horizons and be innovative so that I can change other people's lives with technology. This is the moment when I confess that I am fascinated by technology and that building a career at T.I has always been my first choice, as I am passionate about software development mainly in the area of applications, games and social networks.😄
 <!--
 **fabricio-26/fabricio-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
