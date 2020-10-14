@@ -27,7 +27,7 @@
 </p>
 
 ### Sobre mim
-- 🔭 Estou no caminho para minha primeira oportunidade como dev
+- 🔭 Entusiasta e apaixonado por Java
 - 🌱 Atualmente estou estudando Java, mais especificamente o ambiente Spring
 - 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
 - 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
