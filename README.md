@@ -4,20 +4,39 @@
 
 
 
-## :smile: About me😄
-My name is Fabricio Henrique Alves da Silva, I'm 19 years old, I'm from
-Goiânia (GO). I currently live in my hometown, studying the second period of Analysis and Systems Development. I am currently taking a FULLSTACK course at Danki Code in which I am expanding my knowledge in FrontEnd and looking for new challenges in order to seek new horizons and be innovative so that I can change other people's lives with technology. This is the moment when I confess that I am fascinated by technology and that building a career at T.I has always been my first choice, as I am passionate about software development mainly in the area of applications, games and social networks.😄
-<!--
-**fabricio-26/fabricio-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! 👋
+<p align="center## Heading">
+  <a href="#">
+    <img align="center" width="1000" src="https://i.ibb.co/BqH57bW/Asset-28-2x.png" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-26&layout=compact&show_icons=true&theme=dracula"
+    />
+  </a>
+  <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=fabricio-26&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+    />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+- 🔭 Estou no caminho para minha primeira oportunidade como dev
+- 🌱 Atualmente estou estudando Java, mais especificamente o ambiente Spring
+- 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
+- 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
+
+### Tecnologias que uso
+<p>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="160">
+  <img src="https://img.icons8.com/dusk/50/000000/database-export.png"/>
+</p>
+
