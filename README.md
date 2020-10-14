@@ -32,7 +32,7 @@
 - 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
 - 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
 
-### Tecnologias que uso
+### Tecnologias e Ferramentas:
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="45"/>
