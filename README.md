@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="160">
+  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="150">
   <img src="https://img.icons8.com/dusk/50/000000/database-export.png"/>
    
 </p>
