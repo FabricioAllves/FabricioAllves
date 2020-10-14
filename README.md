@@ -7,7 +7,7 @@
 ### Olá! 👋
 <p align="center## Heading">
   <a href="#">
-    <img align="center" width="1000" src="https://i.ibb.co/Sr0B742/5-ferramentas-em-alta-para-desenvolvedores-React.png" />
+    <img align="center" width="1000" src="https://i.ibb.co/BqH57bW/Asset-28-2x.png" />
   </a>
 </p>
 
