@@ -7,7 +7,7 @@
 ### Olá! 👋
 <p align="center## Heading">
   <a href="#">
-    <img align="center" width="1000" src="https://i.ibb.co/BqH57bW/Asset-28-2x.png" />
+    <img align="right" src="https://ik.imagekit.io/danilovieira/undraw_hacker_mind_6y85_Zn1Vl8GZC.png" width="350"/>
   </a>
 </p>
 
