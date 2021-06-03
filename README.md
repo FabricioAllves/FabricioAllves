@@ -7,7 +7,7 @@
 ### Olá! 👋
 <p align="center## Heading">
   <a href="#">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="385"/>
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="385"/>
   </a>
 </p>
 
