@@ -34,6 +34,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="150">
   <img src="https://img.icons8.com/dusk/50/000000/database-export.png"/>
