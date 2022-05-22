@@ -1,46 +1,49 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-henrique-a56310170/)](https://www.linkedin.com/in/fabricio-henrique-a56310170/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:fabricioohh@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/henrique_allves26/)](https://www.instagram.com/henrique_allves26/)
+<div align="center"
+
+<a href="https://www.instagram.com/henrique_allves26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:fabricioohh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/ricardo-zamboni-3906471b3/](https://www.instagram.com/henrique_allves26/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+
+  <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+
+## 💡 Sobre mim :
+- 🔭 *Entusiasta e apaixonado por Programção*
+- 🌱 *Atualmente estou estudando ReactJs e NodeJs, com objetivo de me torna um FullStack*
+- 🤔 *Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar*
+- 📫 *Me chama no Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
+
+
+<div align="center">
+  <a href="https://github.com/fabricio-26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-26&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-26&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
 
 
-### Olá! 👋
-<p align="center## Heading">
-  <a href="#">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="385"/>
-  </a>
-</p>
+<h1 align="center" >❤ Meus respos favoritos </h1>
+<div align="center">
+ <a href="https://github.com/fabricio-26/API-REST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-26&repo=API-REST&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/fabricio-26/ToDo-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-26&repo=ToDo-React&theme=react&hide_border=true" />
+</a>
+</div>
 
 
 
-### Sobre mim
-- 🔭 Entusiasta e apaixonado por Java
-- 🌱 Atualmente estou estudando Java, mais especificamente o ambiente Spring
-- 🤔 Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar
-- 📫 Me chama no Linkedin! <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-26&layout=compact&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
-
-### Tecnologias e Ferramentas:
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node" width="50px" height="50px" >
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="150">
-  <img src="https://img.icons8.com/dusk/50/000000/database-export.png"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/180px-Dart-logo.png" width="45"/>
-  <img src="https://alexisvt.gallerycdn.vsassets.io/extensions/alexisvt/flutter-snippets/2.0.0/1555603204922/Microsoft.VisualStudio.Services.Icons.Default" width="45"/>
+## Tecnologias e Ferramentas:
+<div align="center">
+ <img height="26" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="26" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img height="26" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="26" alt="NodeJS" 
+ src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img height="26" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="26" alt="Next
+  <img height="26" alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/> <img height="26" alt="MongoDB
   
-</p>
+</div>
 
 
