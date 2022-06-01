@@ -7,7 +7,7 @@
 
 
 
-  <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26rem"></h1>
+  <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80rem"></h1>
 
 
 ## 💡 Sobre mim :
