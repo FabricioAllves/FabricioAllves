@@ -6,7 +6,6 @@
 </div>
 
 
-[<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/fabricio-26/fabricio-26/tree/master/Localization/English)
 
   <h1 align="center" >Fala Dev👨‍💻></h1>
 
