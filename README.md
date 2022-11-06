@@ -12,7 +12,7 @@
 
 ## 💡 Sobre mim :
 - 🔭 *Entusiasta e apaixonado por Programção*
-- 🌱 *Atualmente estou estudando ReactJs e NodeJs, com objetivo de me torna um FullStack*
+- 🌱 *ReactJs, React-Native e NodeJs*
 - 🤔 *Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar*
 - 📫 *Me chama no Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
 
