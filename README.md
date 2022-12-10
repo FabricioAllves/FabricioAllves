@@ -16,10 +16,10 @@
 
 
 ## 💡 Sobre mim :
-- 🔭 *Entusiasta e apaixonado por Programção*
-- 🌱 *ReactJs, React-Native e NodeJs*
-- 🤔 *Adoro ajudar! Se tiver alguma dúvida, não deixe de me procurar*
-- 📫 *Me chama no Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">AQUI</a>
+- 🔭 *Enthusiast and passionate about Programming*
+- 🌱 *ReactJs, React-Native and NodeJs*
+- 🤔 *I love helping! If you have any questions, be sure to come to me*
+- 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">HERE</a>
 
 
 <div align="center">
