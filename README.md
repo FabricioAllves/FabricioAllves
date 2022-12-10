@@ -15,7 +15,7 @@
 
 
 
-## 💡 Sobre mim :
+## 💡 About me:
 - 🔭 *Enthusiast and passionate about Programming*
 - 🌱 *ReactJs, React-Native and NodeJs*
 - 🤔 *I love helping! If you have any questions, be sure to come to me*
