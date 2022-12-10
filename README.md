@@ -4,7 +4,7 @@
   Hey there! I'm Fabricio Henrique 👋
 </h1>
  <h3 align="center">
-  🚀 FrontEnd Developer | ReactJS and ReactNative 🚀
+  🚀 FrontEnd Developer | ReactNative 🚀
 </h3>
 
 <div align="center"
