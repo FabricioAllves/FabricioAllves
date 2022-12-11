@@ -18,7 +18,7 @@
 ## 💡 About me:
 - 🔭 *Enthusiast and Programming passionate*
 - 🌱 *ReactJs, React-Native and NodeJs*
-- 🤔 *I love helping! If you have any questions, be sure to come to me*
+- 🤔 *I love helping! If you have any questions, make sure you're conneted with me*
 - 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">HERE</a>
 
 
