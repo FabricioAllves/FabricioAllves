@@ -30,15 +30,6 @@
 
 
 
-<h1 align="center" >❤💻 Highlight Projects</h1>
-<div align="center">
- <a href="https://github.com/fabricio-26/API-REST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-26&repo=API-REST&theme=react&hide_border=true" />
-</a>
-<a href="[https://github.com/fabricio-26/ToDo-React](https://github.com/fabricio-26/Carrinho-de-compra)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-26&repo=Carrinho-de-compra&theme=react&hide_border=true" />
-</a>
-</div>
 
 
 
