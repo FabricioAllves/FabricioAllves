@@ -4,7 +4,7 @@
   Hey there! I'm Fabricio Allves 👋
 </h1>
  <h3 align="center">
-  🚀 FrontEnd Developer | ReactNative 🚀
+  
 </h3>
 
 <div align="center"
@@ -17,7 +17,6 @@
 
 ## 💡 About me:
 - 🔭 *Enthusiast and Programming passionate*
-- 🌱 *ReactJs, React-Native and NodeJs*
 - 🤔 *I love helping! If you have any questions, make sure you're connected with me*
 - 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">HERE</a>
 
