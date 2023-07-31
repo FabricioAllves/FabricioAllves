@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/fabricio-26h/">Fabricio Allves</a></b>.
-    <br>I'm a Java backend developer<br>
+    <br>I'm a Java Backend developer<br>
 
 </samp>
 
