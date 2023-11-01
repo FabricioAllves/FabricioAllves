@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <br>
   <samp>
@@ -5,8 +6,8 @@
     <br>I'm a React Natives developer<br>
 
 </samp>
+-->
 
-<!--
 <h1 align="center">
   Hey there! I'm Fabricio Allves 👋
 </h1>
@@ -53,6 +54,6 @@
 <img height="22" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   
 </div>
--->
+
 
 
