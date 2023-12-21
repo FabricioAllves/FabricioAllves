@@ -24,7 +24,7 @@
 
 
 ## 💡 About me:
-*I am a tall, self-taught young man passionate about software development. As a FrontEnd developer, developing mobile applications with React Native, I strive every day to learn and keep myself updated on new advancements in technology.*
+*I am a self-taught young person passionate about software development. As a FrontEnd developer, delivering mobile applications with React Native, I seek to learn daily and stay updated on new advances in technology..*
 
 - 🤔 *I love helping! If you have any questions, make sure you're connected with me*
 - 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">HERE</a>
