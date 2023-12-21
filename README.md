@@ -29,6 +29,12 @@ I am a self-taught young person passionate about software development. As a Fron
 - 🤔 *I love helping! If you have any questions, make sure you're connected with me*
 - 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/fabricio-henrique-a56310170/">HERE</a>
 
+<!--
+> [!NOTE]
+> Sometimes I write about software:
+> - [The consequences of using State over Cache and its impact on data consistency.](https://arthur.place/implications-of-cache-or-state) - 09/2022
+> - [How return await can slow down your code.](https://arthur.place/the-cost-of-return-await) - 03/2022
+-->
 
 <div align="center">
   <a href="https://github.com/FabricioAllves">
