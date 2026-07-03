@@ -1,17 +1,14 @@
-<!--
-<p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/fabricio-26h/">Fabricio Allves</a></b>.
-    <br>I'm a React Natives developer<br>
-
-</samp>
--->
-
 <h1 align="center">
-  Hey there! I'm Fabricio Allves 👋
+Hi, I'm Fabricio Alves 👋
 </h1>
- <h3 align="center">
+
+<p align="center">
+Mobile Software Engineer • React Native • React.js • TypeScript
+</p>
+
+<p align="center">
+Building scalable mobile and web applications with a focus on architecture, performance and great user experiences.
+</p>
   
 </h3>
 
